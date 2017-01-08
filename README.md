@@ -1,1 +1,1 @@
-test for the host
+[Hxman Blog](https://hxman.github.io/blog/)
